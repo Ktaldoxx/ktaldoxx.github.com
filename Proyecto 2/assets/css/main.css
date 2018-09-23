@@ -104,7 +104,7 @@ h2 {
 }
 
 .fa-fire {
-    margin-left: 10vw;
+    margin-left: 9vw;
     color: #E6A500;
 }
 
@@ -114,6 +114,7 @@ h2 {
     color: #9b6e00;
     font-size: 1.5em;
     margin-left: 2.5vw;
+    margin-right: 1vw;
 }
 
 h2 .position {
