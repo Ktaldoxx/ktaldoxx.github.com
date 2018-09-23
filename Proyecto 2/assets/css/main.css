@@ -141,7 +141,8 @@ section {
     border-radius: 5px;
     box-shadow: 2px 2px 5px 2px gray;
     text-align: center;
-    margin: 5%;
+    margin-left: 5%;
+    margin-top: 1em;
 }
 
 .content-detail-table {
@@ -153,6 +154,7 @@ section {
     box-shadow: 2px 2px 5px 2px gray;
     text-align: center;
     margin-left: 5%;
+    margin-top: 1em;
     width: 90vw;
 }
 
@@ -180,7 +182,7 @@ section {
 }
 
 .center img {
-    max-width: 1024px;
+    width: 8vw;
 }
 
 .table {
